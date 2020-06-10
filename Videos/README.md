@@ -1,1 +1,1 @@
-This folder holds recorded videos from our live sessions.
+Watch videos from live sessions on my Youtube channel:  
