@@ -1,1 +1,1 @@
-Holds data sample data used in tutorials. 
+Holds sample data used in tutorials. 
