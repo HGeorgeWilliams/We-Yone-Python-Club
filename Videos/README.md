@@ -1,4 +1,4 @@
-Watch videos from live sessions on my Youtube channel: https://www.youtube.com/channel/UCUWApzGceugj6UpipYu-ZZQ/
+Links to narrations of the files in the folder Tutorials.
 
 Strings1: https://www.youtube.com/watch?v=HFqv-fkSCGs&t=164s
 
