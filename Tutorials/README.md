@@ -1,6 +1,8 @@
 Holds tutorials from live sessions. 
 
+
 PAST SESSIONS
+
 
 Google Colab for Beginners Part One: https://www.youtube.com/watch?v=cl715XmCPJ8
 
@@ -20,7 +22,10 @@ Understanding If Statements in  Python:  https://www.youtube.com/watch?v=R3EQm3O
 
 Loops in Python: https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
+
+
 FUTURE SESSIONS THIS MONTH
+
 
 July 11: Tutorial session on loops and conditional statements
 
