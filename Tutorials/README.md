@@ -22,12 +22,10 @@ Understanding If Statements in  Python:  https://www.youtube.com/watch?v=R3EQm3O
 
 Loops in Python: https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
+Tutorial on Nested Lists: https://www.youtube.com/watch?v=rwj8ko18xRs
 
 
 FUTURE SESSIONS THIS MONTH
-
-
-July 11: Tutorial session on loops and conditional statements
 
 July 18: Numbers and numerical expressions
 
