@@ -27,9 +27,6 @@ Tutorial on Nested Lists: https://www.youtube.com/watch?v=rwj8ko18xRs
 
 FUTURE SESSIONS THIS MONTH
 
-July 18: Numbers and numerical expressions
-
-July 25: Introduction to functions 
+July 25: Numbers and numerical expressions
 
 Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
-
