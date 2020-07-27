@@ -24,9 +24,10 @@ Loops in Python: https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
 Tutorial on Nested Lists: https://www.youtube.com/watch?v=rwj8ko18xRs
 
+Maths Operations and Graph Plotting: https://www.youtube.com/watch?v=vWgVkpQAxdE&t=2329s
 
-FUTURE SESSIONS THIS MONTH
+NEXT SESSION
 
-July 25: Numbers and numerical expressions
+August 1: Introduction to Functions
 
 Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
