@@ -26,8 +26,10 @@ Tutorial on Nested Lists: https://www.youtube.com/watch?v=rwj8ko18xRs
 
 Maths Operations and Graph Plotting: https://www.youtube.com/watch?v=vWgVkpQAxdE&t=2329s
 
+Introduction to Functions: 
+
 NEXT SESSION
 
-August 1: Introduction to Functions
+August 8: Functions Part 2
 
 Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
