@@ -28,8 +28,10 @@ Maths Operations and Graph Plotting: https://www.youtube.com/watch?v=vWgVkpQAxdE
 
 Introduction to Functions: 
 
+Foolproofing Functions and Exporting Data to Excel: https://youtu.be/o9Kig68tRF0
+
 NEXT SESSION
 
-August 8: Functions Part 2
+August 15: Importing Packages, Modules and Functions
 
 Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
