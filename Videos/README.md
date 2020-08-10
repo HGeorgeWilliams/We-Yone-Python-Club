@@ -9,3 +9,6 @@ IfStatements: https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
 Loops: https://www.youtube.com/watch?v=9e3804NOigM&t=826s and https://www.youtube.com/watch?v=rwj8ko18xRs
 
 MathsExpressions: https://www.youtube.com/watch?v=vWgVkpQAxdE&t=2329s
+
+Functions_Part2: https://youtu.be/o9Kig68tRF0
+
