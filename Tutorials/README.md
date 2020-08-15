@@ -14,11 +14,11 @@ Spyder for Beginners Part One: https://www.youtube.com/watch?v=CMbTTDLGJsQ
 
 Spyder for Beginners Part Two: https://www.youtube.com/watch?v=uYxNNo2p72k
 
-Getting Started with Strings in Python:  https://www.youtube.com/watch?v=HFqv-fkSCGs&t=164s
+Getting Started with Strings in Python (Strings1.ipynb):  https://www.youtube.com/watch?v=HFqv-fkSCGs&t=164s
 
-Manipulating Strings in Python: https://www.youtube.com/watch?v=TlHAE4-mBsE&t=578s
+Manipulating Strings in Python (Strings2.ipynb): https://www.youtube.com/watch?v=TlHAE4-mBsE&t=578s
 
-Understanding If Statements in  Python:  https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
+Understanding If Statements in  Python (IfStatements):  https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
 
 Loops in Python: https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
