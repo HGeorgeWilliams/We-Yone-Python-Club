@@ -18,17 +18,17 @@ Getting Started with Strings in Python (Strings1.ipynb):  https://www.youtube.co
 
 Manipulating Strings in Python (Strings2.ipynb): https://www.youtube.com/watch?v=TlHAE4-mBsE&t=578s
 
-Understanding If Statements in  Python (IfStatements):  https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
+Understanding If Statements in  Python (IfStatements.ipynb): https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
 
-Loops in Python: https://www.youtube.com/watch?v=9e3804NOigM&t=826s
+Loops in Python (Loops.ipynb): https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
 Tutorial on Nested Lists: https://www.youtube.com/watch?v=rwj8ko18xRs
 
-Maths Operations and Graph Plotting: https://www.youtube.com/watch?v=vWgVkpQAxdE&t=2329s
+Maths Operations and Graph Plotting (MathsExpressions.ipynb): https://www.youtube.com/watch?v=vWgVkpQAxdE&t=2329s
 
-Introduction to Functions: 
+Introduction to Functions (Functions.ipynb): 
 
-Foolproofing Functions and Exporting Data to Excel: https://youtu.be/o9Kig68tRF0
+Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): https://youtu.be/o9Kig68tRF0
 
 NEXT SESSION
 
