@@ -32,6 +32,6 @@ Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): http
 
 NEXT SESSION
 
-August 15: Importing Packages, Modules and Functions
+September 5: Data Structures
 
 Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
