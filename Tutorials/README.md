@@ -1,4 +1,4 @@
-Holds Notebooks for tutorials from live sessions (listed chronologically). 
+Holds notebooks for tutorials from live sessions (listed chronologically with notebook names in bracket). 
 
 
 PAST SESSIONS
