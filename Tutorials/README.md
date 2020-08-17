@@ -18,7 +18,7 @@ Getting Started with Strings in Python (Strings1.ipynb):  https://www.youtube.co
 
 Manipulating Strings in Python (Strings2.ipynb): https://www.youtube.com/watch?v=TlHAE4-mBsE&t=578s
 
-Understanding If Statements in  Python (IfStatements.ipynb): https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
+Understanding if Statements in Python (IfStatements.ipynb): https://www.youtube.com/watch?v=R3EQm3Othn0&t=159s
 
 Loops in Python (Loops.ipynb): https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
@@ -29,6 +29,7 @@ Maths Operations and Graph Plotting (MathsExpressions.ipynb): https://www.youtub
 Introduction to Functions (Functions.ipynb): 
 
 Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): https://youtu.be/o9Kig68tRF0
+Overview of Python Modules and Packages (ModulesAndPackages.ipynb): https://www.youtube.com/watch?v=sHXpvQWwJH8
 
 NEXT SESSION
 
