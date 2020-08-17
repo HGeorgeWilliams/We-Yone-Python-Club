@@ -29,6 +29,7 @@ Maths Operations and Graph Plotting (MathsExpressions.ipynb): https://www.youtub
 Introduction to Functions (Functions.ipynb): 
 
 Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): https://youtu.be/o9Kig68tRF0
+
 Overview of Python Modules and Packages (ModulesAndPackages.ipynb): https://www.youtube.com/watch?v=sHXpvQWwJH8
 
 NEXT SESSION
