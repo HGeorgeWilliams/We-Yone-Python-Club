@@ -32,8 +32,10 @@ Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): http
 
 Overview of Python Modules and Packages (ModulesAndPackages.ipynb): https://www.youtube.com/watch?v=sHXpvQWwJH8
 
+Data Structures - Lists and Sets : 
+
 NEXT SESSION
 
-September 5: Data Structures
+September 12: Data Structures 2 - Dictionaries and Tuples 
 
 Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
