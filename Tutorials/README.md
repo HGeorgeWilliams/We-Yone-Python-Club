@@ -30,4 +30,4 @@ Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): http
 
 Overview of Python Modules and Packages (ModulesAndPackages.ipynb): https://www.youtube.com/watch?v=sHXpvQWwJH8
 
-Data Structures - Lists and Sets : 
+Data Structures - Lists and Sets (Lecture15: Sets&Lists): https://www.youtube.com/watch?v=j0TBHOzi6D4
