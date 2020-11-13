@@ -20,7 +20,7 @@ Understanding if Statements in Python (IfStatements.ipynb): https://www.youtube.
 
 Loops in Python (Loops.ipynb): https://www.youtube.com/watch?v=9e3804NOigM&t=826s
 
-Tutorial on Nested Lists: https://www.youtube.com/watch?v=rwj8ko18xRs
+Tutorial on Nested Lists (Loops.ipynb): https://www.youtube.com/watch?v=rwj8ko18xRs
 
 Maths Operations and Graph Plotting (MathsExpressions.ipynb): https://www.youtube.com/watch?v=vWgVkpQAxdE&t=2329s
 
