@@ -1,10 +1,8 @@
 Holds notebooks for tutorials from live sessions (listed chronologically with notebook names in bracket). 
 
-
 PAST SESSIONS
 
-
-Google Colab for Beginners Part One: https://www.youtube.com/watch?v=cl715XmCPJ8
+Google Colab for Beginners Part One : https://www.youtube.com/watch?v=cl715XmCPJ8
 
 Google Colab for Beginners Part Two: https://www.youtube.com/watch?v=_rbwOt6gHg0
 
@@ -33,9 +31,3 @@ Foolproofing Functions and Exporting Data to Excel (Functions_Part2.ipynb): http
 Overview of Python Modules and Packages (ModulesAndPackages.ipynb): https://www.youtube.com/watch?v=sHXpvQWwJH8
 
 Data Structures - Lists and Sets : 
-
-NEXT SESSION
-
-September 12: Data Structures 2 - Dictionaries and Tuples 
-
-Sessions start at 16:00 GMT and you can join via https://meet.google.com/jdg-psqc-jeo
